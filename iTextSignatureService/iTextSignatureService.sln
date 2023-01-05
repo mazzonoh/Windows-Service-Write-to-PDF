@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTextSignatureService", "iTextSignatureService\iTextSignatureService.csproj", "{975CBEE3-9064-4CBD-A1B2-1CACB1F1D9B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975CBEE3-9064-4CBD-A1B2-1CACB1F1D9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975CBEE3-9064-4CBD-A1B2-1CACB1F1D9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975CBEE3-9064-4CBD-A1B2-1CACB1F1D9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975CBEE3-9064-4CBD-A1B2-1CACB1F1D9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51281CB7-B1AF-4EDE-B2BA-47E405DFCCE8}
+	EndGlobalSection
+EndGlobal

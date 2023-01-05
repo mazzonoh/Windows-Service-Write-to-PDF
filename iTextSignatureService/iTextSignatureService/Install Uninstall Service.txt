@@ -1,0 +1,15 @@
+Windows 8.1 and later releases installation instructions:
+
+Open CMD prompt as administrator
+
+Change directory to:
+C:\Windows\Microsoft.NET\Framework\v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319
+
+Install:
+installutil.exe "C:\Program Files (x86)\iTextSignature\iTextSignature.exe"
+
+Uninstall: (if you are removing the service)
+installutil /u "C:\Program Files (x86)\iTextSignature\iTextSignature.exe"
+
+Now type your username with domain (if necessary) and password, you can later change to a Local Account if you have any password expiration policy
